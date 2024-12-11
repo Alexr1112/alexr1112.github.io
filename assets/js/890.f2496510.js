@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_healtech=self.webpackChunkmanual_healtech||[]).push([[890],{890:(e,a,c)=>{c.d(a,{createInfoServices:()=>h.v});var h=c(7021);c(9369)}}]);

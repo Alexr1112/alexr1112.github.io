@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanual_healtech=self.webpackChunkmanual_healtech||[]).push([[9647],{7121:(e,a,s)=>{s.r(a),s.d(a,{default:()=>t});s(6540);var r=s(4164),u=s(1003),c=s(7559),l=s(2831),h=s(8244),n=s(4848);function t(e){return(0,n.jsx)(u.e3,{className:(0,r.A)(c.G.wrapper.docsPages),children:(0,n.jsx)(h.A,{children:(0,l.v)(e.route.routes)})})}}}]);
